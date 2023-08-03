@@ -1,0 +1,9 @@
+main/migrations/__init__.py
+main/migrations/0001_initial.py
+*.sqlite3
+*.CDR
+*.pyc
+main/migrations*
+sms/migrations*
+main/__pycache__*
+sms/__pycache__*
